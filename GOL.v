@@ -1,4 +1,4 @@
-/* Conway's Game of Life developed for the Altera DE2 FPGA Board
+/* A tessellating Conway's Game of Life developed for the Altera DE2 FPGA Board
  * GOL.v by Thomas Robinson & Sheilla Shojaie
  * March 2014
  */
