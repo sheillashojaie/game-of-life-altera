@@ -228,8 +228,6 @@ module Datapath(input Clock, Reset, Right, Left, Up, Down, EN, input[15:0] X, X_
             
                 C_out = SW[14:12];
             end
-							
-				//code here
 				
 				if (~states[(`GRID_WIDTH*(Y_out)) + (X_out)] & ~((X_out == cursor_X_off)&(Y_out == cursor_Y_off)))
 				begin
